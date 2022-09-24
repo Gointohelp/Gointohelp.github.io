@@ -39595,9 +39595,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-text-2 {
-  width: auto;
   font-size: 0.75rem;
-  margin: 10px 58px 0 80px;
+  margin: 8px 60px 0 78px;
 }
 
 .u-footer .u-btn-1 {
@@ -39606,7 +39605,7 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 0.875rem;
   letter-spacing: 1px;
   text-transform: none;
-  margin: 12px auto 60px;
+  margin: 14px auto 60px;
   padding: 0 13px 0 11px;
 }
 @media (max-width: 1199px) {
@@ -39620,6 +39619,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-footer .u-text-2 {
+    width: auto;
     margin-top: 15px;
     margin-left: 69px;
     margin-right: 69px;
