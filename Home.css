@@ -16,7 +16,7 @@
 }
 
 .u-section-1 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("/images/8626bf156fa08ecf264c67a92e5560a5fbde2989a34591ef290b7b49d0ce4ade606ac6d4009bdd6e88c5ed4ff764f825cd5f0c270257b8a61317c0_1280.jpg");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.05), rgba(0,0,0,0.05)), url("/images/1.jpg");
   background-position: 50% 50%;
 }
 
@@ -156,12 +156,12 @@
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-left: 38px;
+    margin-left: 7px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 7px;
-    margin-left: 38px;
+    margin-top: 3px;
+    margin-left: 7px;
     padding: 2px 25px 2px 24px;
   }
 
@@ -170,6 +170,7 @@
   }
 
   .u-section-1 .u-btn-2 {
+    transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
     margin-top: 0;
     padding: 1px 36px 2px 34px;
   }
@@ -699,6 +700,7 @@
 
   .u-section-3 .u-list-1 {
     width: 294px;
+    margin-top: 0;
     margin-right: auto;
   }
 
